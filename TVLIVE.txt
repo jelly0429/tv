@@ -1,6 +1,6 @@
 
 
-央视
+📺央视
 CCTV1,http://61.178.227.57:9901/tsfile/live/0001_1.m3u8
 CCTV2,http://61.178.227.57:9901/tsfile/live/0002_1.m3u8
 CCTV3,http://61.178.227.57:9901/tsfile/live/0003_1.m3u8
@@ -31,11 +31,7 @@ CCTV14,http://182.107.188.104:8888/newlive/live/hls/15/live.m3u8
 CCTV15,http://182.107.188.104:8888/newlive/live/hls/16/live.m3u8
 CCTV15,http://182.107.188.104:8888/newlive/live/hls/17/live.m3u8
 
-
-
-
-
-卫视
+☄卫视
 湖南卫视,http://111.8.242.84:9901/tsfile/live/0128_1.m3u8
 青海卫视,http://117.174.81.63:50080/newlive/live/hls/39/live.m3u8
 深圳卫视,http://117.174.81.63:50080/newlive/live/hls/42/live.m3u8
